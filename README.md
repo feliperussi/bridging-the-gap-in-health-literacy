@@ -18,5 +18,7 @@ This folder focuses on collecting and processing the data required for the proje
 
 This folder contains resources and scripts for testing the performance of Large Language Models (LLMs) like GPT-4 and GPT-3.5 in generating plain language summaries (PLS). It includes ground truth texts, generated texts, and notebooks for evaluating the generated texts using BERTScore and other metrics.
 
+### Disclaimer
 
+Some code, functions, or texts were generated with the assistance of AI, including the README files, for better organization and readability. However, all content has been reviewed and modified properly by humans.
 
